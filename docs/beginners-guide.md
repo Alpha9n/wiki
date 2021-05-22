@@ -1,11 +1,11 @@
 ---
 title: 初心者指南
-description: FREESERVERに入ってっきたときにやるべきこと
+description: はと鯖に入ってっきたときにやるべきこと
 ---
 # 初めての方へ
 ## 参加前に確認しておいてほしいこと
 - **[利用規約](terms/index)の確認**
-- **正規アカウントの確認(FREESERVERにおいてAltアカウントは禁止されています。)**
+- **正規アカウントの確認(はと鯖においてAltアカウントは禁止されています。)**
 - **[許可Mod](allow-mods)以外を導入していないかの確認**
 ## 参加方法
 Step1. Java版Minecraftを起動する
@@ -14,7 +14,7 @@ Step2. `マルチプレイ`を押す。
 ![](https://i.imgur.com/UJfPHHY.png) <br>
 Step3. 右下の`サーバを追加`を押す。
 
-Step4. 「サーバーアドレス」に`play.freeserver.pro`と入力する。
+Step4. 「サーバーアドレス」に`hatosaba.f5.si`と入力する。
 
 Step5. `完了`を押す。
 
