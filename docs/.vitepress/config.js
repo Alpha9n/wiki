@@ -1,13 +1,13 @@
 module.exports = {
-	title: 'FREESERVER Wiki!',
-	description: 'FREESERVER公式のWiki',
+	title: 'はと鯖 Wiki!',
+	description: 'はと鯖公式のWiki',
 	lang: 'ja-JP',
 	head: [
 		[ 'script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-6SGQWYJL40', async: true } ],
 		[ 'script', {}, `window.GA_MEASUREMENT_ID = 'G-6SGQWYJL40';window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());`]
 	],
 	themeConfig: {
-		repo: 'freeserverproject/freeserver-wiki',
+		repo: 'hatosaba/wiki',
 		docsDir: 'docs',
 		editLinks: true,
 		editLinkText: 'このページをGitHubで編集する',
