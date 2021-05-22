@@ -1,5 +1,5 @@
-# FREESERVER Wiki
-Welcome to FREESERVER Wiki!
+# はと鯖 Wiki
+Welcome to hatosaba Wiki!
 
 ## 使い方
 masterに対してコミットがあると自動でデプロイされ
