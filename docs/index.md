@@ -14,7 +14,7 @@ sidebar: true
 
 ご不明な点等ありましたらこちらを参照ください!!
 
-記事は，[Wiki Editor](http://wiki.freeserver.pro/admins#Wiki%20Editor)[現在数2人][など](about-wiki#%E7%B7%A8%E9%9B%86%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88)により随時拡充中です！
+記事は，[Wiki Editor](admins#Wiki%20Editor)[現在数2人][など](about-wiki#%E7%B7%A8%E9%9B%86%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88)により随時拡充中です！
 ## 目次
 (太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
 ### お初さん向け
