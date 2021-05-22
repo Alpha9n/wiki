@@ -9,7 +9,7 @@ module.exports = {
 	themeConfig: {
 		repo: 'hatosaba/wiki',
 		docsDir: 'docs',
-		docsBranch: 'master',
+		docsBranch: 'main',
 		editLinks: true,
 		editLinkText: 'このページをGitHubで編集する',
 		lastUpdated: '最終更新日',
