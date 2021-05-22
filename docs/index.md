@@ -1,6 +1,6 @@
 ---
 title: トップページ
-description: "ようこそ FREESERVER Wikiへ"
+description: "ようこそ はと鯖 Wikiへ"
 sidebar: true
 ---
 ::: warning 現在のサーバー状況
@@ -8,9 +8,9 @@ sidebar: true
 
 インベントリが消えているなどございましたらDiscordもしくはMinecraftのチャットでAdminにお問い合わせください
 :::
-# ようこそ FREESERVER Wikiへ :tada:
+# ようこそ はと鯖 Wikiへ :tada:
 
-FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
+はと鯖 Wikiでは、はと鯖の運営している**Minecraftサーバー**についてまとめられています!
 
 ご不明な点等ありましたらこちらを参照ください!!
 
