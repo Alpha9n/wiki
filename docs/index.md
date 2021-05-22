@@ -61,4 +61,4 @@ sidebar: true
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
 
 ## Discordウィジェット
-<discord-widget url="https://discord.com/api/guilds/393963617604861952/widget.json"/>
+<discord-widget url="https://discord.com/api/guilds/415803587332014082/widget.json"/>
