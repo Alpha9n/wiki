@@ -1,5 +1,10 @@
-# はと鯖 Wiki
-Welcome to hatosaba Wiki!
+<h1 align="center">
+  はと鯖 Wiki
+</h1>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c586f393-98ef-46ca-9db0-961f15bd9f22/deploy-status)](https://app.netlify.com/sites/competent-haibt-ad066d/deploys)
+[![Twitter](https://badgen.net/twitter/follow/hatoiroiro?icon=twitter)](https://twitter.com/hatoiroiro)
+[![Discord](https://discord.com/api/guilds/415803587332014082/widget.png)](https://discord.gg/hatosaba)
 
 ## 使い方
 masterに対してコミットがあると自動でデプロイされ
