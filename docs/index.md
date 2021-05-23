@@ -27,9 +27,7 @@ hato鯖 Wikiでは、hato鯖の運営している**Minecraftサーバー**につ
 - [フィギュア](item/figure)
 - [バンドル](item/bundle)
 ### イベント
-- [Trouble in Crafter Town](event/tct)(人狼,TCT)
-- [釣り大会](event/fishcontest)
-- [Paint It!](event/paint-it)
+- [花火大会](event/fireworks)
 ### プラグイン
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
 - [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
