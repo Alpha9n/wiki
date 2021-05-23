@@ -17,12 +17,12 @@ sidebar: true
 ## 目次
 (太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
 ### お初さん向け
-- [**初めての方へ**](beginners-guide)
-- [**Discordコミュニティについて**](discord)
+- [**初めての方へ**](pages/beginners-guide)
+- [**Discordコミュニティについて**](pages/discord)
 ### 規約関係
 - [**利用規約**](terms/index)
-- [留置所(Jail)](jail)
-- [**許可Mod**](allow-mods)
+- [留置所(Jail)](pages/jail)
+- [**許可Mod**](pages/allow-mods)
 - [規約違反するとどうなるの？](terms/violation)
 - [**違反を目撃してしまったらどうしたらいいの？**](terms/violation-look)
 ### 追加アイテム
@@ -39,21 +39,21 @@ sidebar: true
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
 - [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
 ### 権限・運営関係
-- [**権限**](permissions)
+- [**権限**](pages/permissions)
 - [**運営リスト**](admins/)
-- [**運営募集情報**](recruit-info)
-- [Wikiチームからのご挨拶](from-wikiteam)
+- [**運営募集情報**](pages/recruit-info)
+- [Wikiチームからのご挨拶](pages/from-wikiteam)
 ### その他
-- [**投票**](vote)
-- [このプロジェクトについて](about-project)
-- [このサーバーについて](about-server)
-- [このWikiについて](about-wiki)
-- [寄付について](donate)
+- [**投票**](pages/vote)
+- [このプロジェクトについて](pages/about-project)
+- [このサーバーについて](pages/about-server)
+- [このWikiについて](pages/about-wiki)
+- [寄付について](pages/donate)
 ## 関連リンク
 
 | リンク名 | リンク |
 | ---- | ---- |
-| オフィシャルサイト | https://www.freeserver.pro/ |
+| オフィシャルサイト | https://hatosaba.f5.si/ |
 | Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro |
 | Monocraft | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U |
 | 利用規約 | https://www.freeserver.pro/%e3%83%ab%e3%83%bc%e3%83%ab%e3%83%bb%e5%90%84%e7%a8%ae%e6%a1%88%e5%86%85/ <br> https://bit.ly/2NoS0Hu
