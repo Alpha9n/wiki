@@ -14,7 +14,7 @@ sidebar: true
 ### お初さん向け
 - [**初めての方へ**](pages/beginners-guide)
 - [**Discordコミュニティについて**](pages/discord)
-### 規約関係
+### ルール
 - [**利用規約**](terms/index)
 - [留置所(Jail)](pages/jail)
 - [**許可Mod**](pages/allow-mods)
