@@ -7,7 +7,7 @@ sidebar: true
 ![ロゴ](https://hatosaba.f5.si/wp-content/uploads/チャンネルアート.png "")
 hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃったよ!(*ﾉω・*)ﾃﾍ
 
-いろいろ載ってるwikiだよ！
+いろいろ載ってるwikiだよ！！
 
 ## 目次
 ### 初めてのはとさば～

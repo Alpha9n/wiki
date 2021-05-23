@@ -2,7 +2,7 @@
 title: 投票
 description: FREESERVERへの投票の方法などが書いてあります！
 ---
-
+編集中
 # 投票
 ## 概要
 [minecraft.jp](https://www.minecraft.jp/servers/play.freeserver.pro )か [monocraft.net](https://monocraft.net/servers/cb23696EAKqv51cX1L6U) で投票をすると，投票コインがもらえます！
