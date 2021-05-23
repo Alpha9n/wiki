@@ -5,15 +5,14 @@ sidebar: true
 ---
 # ようこそ hato鯖公式 Wikiへ :tada:
 
-hato鯖 Wikiでは、hato鯖の運営している**Minecraftサーバー**についてまとめられています!
+hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃったよ!(*ﾉω・*)ﾃﾍ
 
-ご不明な点等ありましたらこちらを参照ください
+いろいろ載ってるwikiだよ！
 
 ## 目次
-(太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
 ### お初さん向け
-- [**初めての方へ**](pages/beginners-guide)
-- [**Discordコミュニティについて**](pages/discord)
+- [**初めての方はコチラ**](pages/082-guide)
+- [**Discordコミュニティ**](pages/discord)
 ### ルール
 - [**利用規約**](terms/index)
 - [留置所(Jail)](pages/jail)

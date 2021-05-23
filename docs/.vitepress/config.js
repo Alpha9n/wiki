@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'はと鯖 Wiki!',
-	description: 'はと鯖公式のWiki',
+	title: 'hato鯖公式 Wiki',
+	description: 'hato鯖公式のWiki',
 	lang: 'ja-JP',
 	head: [
 		[ 'script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-6SGQWYJL40', async: true } ],
@@ -14,9 +14,9 @@ module.exports = {
 		editLinkText: 'このページをGitHubで編集する',
 		lastUpdated: '最終更新日',
 		nav: [
-			{ text: 'トップ', link: '/' },
+			{ text: 'TOP!', link: '/' },
 			{ text: 'プライバシーポリシー', link: 'pages/privacy-policy' },
-			{ text: '初心者指南', link: 'pages/beginners-guide' }
+			{ text: 'お初さんはこちら', link: 'pages/beginners-guide' }
 		]
 	},
 	markdown: {
