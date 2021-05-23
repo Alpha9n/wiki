@@ -17,4 +17,4 @@ description: 運営リスト
 | Staff    | 該当なし                                                                                                       |||||
 
 ## 絶賛運営募集中！
-[運営募集について](pages/recruit-info)
+[運営募集について](/pages/recruit-info)
