@@ -3,11 +3,11 @@ title: トップページ
 description: "ようこそ はと鯖 Wikiへ"
 sidebar: true
 ---
-# ようこそ はと鯖 Wikiへ :tada:
+# ようこそ hato鯖公式 Wikiへ :tada:
 
-はと鯖 Wikiでは、はと鯖の運営している**Minecraftサーバー**についてまとめられています!
+hato鯖 Wikiでは、hato鯖の運営している**Minecraftサーバー**についてまとめられています!
 
-ご不明な点等ありましたらこちらを参照くだ
+ご不明な点等ありましたらこちらを参照ください
 
 ## 目次
 (太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
@@ -51,7 +51,7 @@ sidebar: true
 | オフィシャルサイト | https://hatosaba.f5.si/ |
 | Japan Minecraft Servers | https://minecraft.jp/servers/hatosaba.f5.si
 | Monocraft | https://monocraft.net/servers/EasDltAc1DO8OosuR9mA |
-| 利用規約 | https://www.freeserver.pro/%e3%83%ab%e3%83%bc%e3%83%ab%e3%83%bb%e5%90%84%e7%a8%ae%e6%a1%88%e5%86%85/ <br> https://bit.ly/2NoS0Hu
+| 利用規約 | https://hatosaba.f5.si/rule/
 | 公式Discordコミュニティ | https://discord.gg/zf9G4UY 
 
 ## Discordウィジェット
