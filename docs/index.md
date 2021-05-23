@@ -10,26 +10,16 @@ hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃ�
 いろいろ載ってるwikiだよ！
 
 ## 目次
-### お初さん向け
+### 初めてのはとさば～
 - [**初めての方はコチラ**](pages/082-guide)
 - [**Discordコミュニティ**](pages/discord)
 ### ルール
 - [**利用規約**](terms/index)
-- [留置所(Jail)](pages/jail)
-- [**許可Mod**](pages/allow-mods)
-- [規約違反するとどうなるの？](terms/violation)
-- [**違反を目撃してしまったらどうしたらいいの？**](terms/violation-look)
-### 追加アイテム
-- [モンスターボール](item/monsterbowl)
-- [魔法のほうき](item/broom)
-- [各種魚](item/addfish)
-- [フィギュア](item/figure)
-- [バンドル](item/bundle)
+- [**許可Mod**](pages/mods)
 ### イベント
 - [花火大会](event/fireworks)
 ### プラグイン
-- [**WorldGuard**](plugin/worldguard)(土地保護PL)
-- [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
+- [**WorldGuard**](plugin/worldguard)(土地保護)
 ### 権限・運営関係
 - [**権限**](pages/permissions)
 - [**運営リスト**](admins/)
@@ -37,10 +27,9 @@ hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃ�
 - [Wikiチームからのご挨拶](pages/from-wikiteam)
 ### その他
 - [**投票**](pages/vote)
-- [このプロジェクトについて](pages/about-project)
-- [このサーバーについて](pages/about-server)
+- [このサーバーについて](pages/server)
 - [このWikiについて](pages/about-wiki)
-- [寄付について](pages/donate)
+- [寄付について](pages/contribution)
 ## 関連リンク
 
 | リンク名 | リンク |

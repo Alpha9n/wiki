@@ -1,16 +1,12 @@
 ---
-title: 許可されているMod
-description: FREESERVER内で許可されているMod一覧
+title: 使用してもいいMod
+description: 許可されているMod一覧
 sidebar: true
 ---
 # 許可されているMod
 
-FREESERVERでは当然ながらすべてのModやクライアントを許可しているわけではありません。
+**当サーバーではOptifineとSignPictureの導入を推奨しています。**
 
-サーバー内で使用したいModやクライアントがある場合は，以下の一覧から確認し，見当たらない場合は[FREESERVER公式Discord](https://www.discord.gg/WudKwEj)内のチケットを発行し申請を行ってください
-
-**当サーバーではOptifineの導入を推奨しています。**
- 但し、Optifineを始めとするModを導入したことによるいかなる損害も当サーバーにて責任を負うことはできません。
 
 ## 許可済み前提Mod
 

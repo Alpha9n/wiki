@@ -16,7 +16,7 @@ module.exports = {
 		nav: [
 			{ text: 'TOP!', link: '/' },
 			{ text: 'プライバシーポリシー', link: 'pages/privacy-policy' },
-			{ text: 'お初さんはこちら', link: 'pages/beginners-guide' }
+			{ text: 'お初さんはこちら', link: 'pages/082-guide' }
 		]
 	},
 	markdown: {
