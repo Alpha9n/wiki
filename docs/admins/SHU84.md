@@ -1,6 +1,6 @@
 ---
 title: SHU30
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # SHU30

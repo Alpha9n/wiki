@@ -1,6 +1,6 @@
 ---
 title: EndoRe07
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # EndoRe07

@@ -1,6 +1,6 @@
 ---
 title: kakiP1107
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # kakiP1107

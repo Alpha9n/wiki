@@ -1,6 +1,6 @@
 ---
 title: doudai
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # doudai

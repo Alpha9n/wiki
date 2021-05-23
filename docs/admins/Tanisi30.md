@@ -1,6 +1,6 @@
 ---
 title: Tanisi30
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # Tanisi30

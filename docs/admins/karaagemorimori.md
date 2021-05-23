@@ -1,6 +1,6 @@
 ---
 title: karaagemorimori
-description: うんえいのひと！
+description: うんえいのひと！！
 sidebar: true
 ---
 # karaagemorimori
