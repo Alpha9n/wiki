@@ -4,7 +4,7 @@ description: "ようこそ hato鯖公式 Wikiへ"
 sidebar: true
 ---
 # ようこそ hato鯖公式 Wikiへ :tada:
-
+![ロゴ](https://hatosaba.f5.si/wp-content/uploads/チャンネルアート.png "")
 hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃったよ!(*ﾉω・*)ﾃﾍ
 
 いろいろ載ってるwikiだよ！
@@ -20,24 +20,21 @@ hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃ�
 - [花火大会](event/fireworks)
 ### プラグイン
 - [**WorldGuard**](plugin/worldguard)(土地保護)
-### 権限・運営関係
-- [**権限**](pages/permissions)
-- [**運営リスト**](admins/)
+### 運営関係
+- [**運営チーム**](admins/)
 - [**運営募集情報**](pages/recruit-info)
-- [Wikiチームからのご挨拶](pages/from-wikiteam)
 ### その他
 - [**投票**](pages/vote)
-- [このサーバーについて](pages/server)
-- [このWikiについて](pages/about-wiki)
+- [この鯖の概要、スペック、歴史まとめ！](pages/server)
 - [寄付について](pages/contribution)
 ## 関連リンク
 
 | リンク名 | リンク |
 | ---- | ---- |
-| オフィシャルサイト | https://hatosaba.f5.si/ |
+| サイト | https://hatosaba.f5.si/ |
 | Japan Minecraft Servers | https://minecraft.jp/servers/hatosaba.f5.si
 | Monocraft | https://monocraft.net/servers/EasDltAc1DO8OosuR9mA |
-| 利用規約 | https://hatosaba.f5.si/rule/
+| 規約 | https://hatosaba.f5.si/rule/
 | 公式Discordコミュニティ | https://discord.gg/zf9G4UY 
 
 ## Discordウィジェット

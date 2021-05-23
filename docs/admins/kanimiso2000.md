@@ -1,3 +1,0 @@
----
-title: kanimiso2000
----

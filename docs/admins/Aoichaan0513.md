@@ -1,3 +1,0 @@
----
-title: Aoichaan0513
----
