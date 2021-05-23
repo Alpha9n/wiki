@@ -1,6 +1,6 @@
 ---
 title: "フリーサーバーについて"
-description: FREESERVERについて詳細な情報が書かれています
+description: はと鯖について詳細な情報が書かれています
 ---
 
 # このサーバーについて
