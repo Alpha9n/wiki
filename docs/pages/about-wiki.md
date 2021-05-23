@@ -14,15 +14,15 @@ description: "このFREESERVER Wiki!について"
 ## 編集者リスト
 **[役職序列順]** ()内:詳細役職 []内:協力箇所
 ### FREESERVER Owner
-- [Alpha9n](admins/alphakun)
+- [Alpha9n](/admins/alphakun)
 ### FREESERVER SubOwner
-- [tererun](admins/tererun)
-- [tsutoringo(Web Developer)](admins/tsutoringo)[Minecraftスキン関係整備]
+- [tererun](/admins/tererun)
+- [tsutoringo(Web Developer)](/admins/tsutoringo)[Minecraftスキン関係整備]
 ### FREESERVER Wiki Editor
-- [Nakatai_0322](admins/Nakatai_0322)
-- [Nikuzuki](admins/Nikuzuki)
+- [Nakatai_0322](/admins/Nakatai_0322)
+- [Nikuzuki](/admins/Nikuzuki)
 ### FREESERVER STAFF
-- [Noaking](admins/noaking)(元Wiki Editor)
+- [Noaking](/admins/noaking)(元Wiki Editor)
 ## 略歴
 | 年  | 月  | 日  | 内容 |
 | -------- | ------- | ------- | -------- |
