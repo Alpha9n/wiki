@@ -1,6 +1,6 @@
 ---
 title: トップページ
-description: "ようこそ はと鯖 Wikiへ"
+description: "ようこそ hato鯖公式 Wikiへ"
 sidebar: true
 ---
 # ようこそ hato鯖公式 Wikiへ :tada:
