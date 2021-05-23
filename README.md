@@ -10,7 +10,7 @@
 masterに対してコミットがあると自動でデプロイされ
 
 Netlifyでビルドされ[wiki.hatosaba.f5.si](https://wiki.hatosaba.f5.si/)
-または[freeserver-wiki.netlify.app](https://competent-haibt-ad066d.netlify.app/)に適用されます。
+または[https://competent-haibt-ad066d.netlify.app/](https://competent-haibt-ad066d.netlify.app/)に適用されます。
 
 ## ローカルで検証
 ### 必要環境
