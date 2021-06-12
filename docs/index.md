@@ -5,9 +5,11 @@ sidebar: true
 ---
 # ようこそ hato鯖公式 Wikiへ :tada:
 ![ロゴ](https://hatosaba.f5.si/wp-content/uploads/チャンネルアート.png "")
-hato鯖公式 Wikiでは、**Minecraftサーバー**についてまとめちゃったよ!(*ﾉω・*)ﾃﾍ
+hato鯖公式 Wikiでは、**Minecraftサーバー**について**細かい**ところまで、まとめちゃったよ!(*ﾉω・*)ﾃﾍ
 
 いろいろ載ってるwikiだよ！！
+
+## このwikiは制作途中です。
 
 ## NEWS・TOPICS
 - サーバーメモリを32GBに増設しました！

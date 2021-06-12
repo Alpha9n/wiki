@@ -25,6 +25,8 @@ description: hato鯖について詳細な情報が書かれています
 | OS         |  Ubuntu                       |
 | RAM         | 32GB                                    |
 | ネットワーク速度         | 420Mbps                                    |
+| 平均ping | 30ms前後 |
+| 平均TPS | 18/20前後 |
 | 無停電電源装置       | 有 |
 
 ## 歴史
